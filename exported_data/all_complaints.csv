@@ -5,7 +5,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 4,395708,['Other'],2026-04-15,2026-04-16,Howard,2026-04-20,Incident Closed-Managed,
 5,395705,"['Air', 'Fumes', 'Odor', 'Other']",2026-04-17,2026-04-17,Montgomery,,Referred to Outside Agency,20852
 6,395704,"['Air', 'Fumes', 'Odor', 'Other']",2026-04-16,2026-04-16,Cecil,2026-04-17,Incident Closed-Managed,21903
-7,395687,['Air'],2026-04-15,2026-04-14,Frederick,,Under Investigation,
+7,395687,['Air'],2026-04-14,2026-04-14,Frederick,2026-04-28,Incident Closed-No Violation Observed,21710
 8,395686,['Air'],2026-04-11,2026-04-11,Anne Arundel,2026-04-22,Incident Closed-Managed,21061
 9,395683,['Fugitive Dust/Particulate Matter'],2026-04-14,2026-04-14,Washington,,Under Investigation,21742
 10,395682,"['Odor', 'Smoke']",2026-04-14,2026-04-10,Allegany,,Under Investigation,21502
@@ -275,7 +275,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 275,375049,['Air Pollutant Release'],2025-10-17,2025-10-17,Anne Arundel,2025-11-25,Incident Closed-Managed,
 276,375041,['Air'],2025-11-21,2025-11-21,Harford,,Referred to Outside Agency,
 277,375037,['ARA AQCP non-regulated entity'],2025-11-21,2025-11-18,Dorchester,2025-11-19,Incident Closed - No further action,
-278,375029,['Air'],2025-11-03,2025-11-03,Baltimore,2025-11-19,Incident Closed-No Violation Observed,
+278,375029,['Air'],2025-11-03,2025-11-03,Baltimore,2026-04-28,Incident Closed-No Violation Observed,
 279,375028,['Air'],2025-11-19,2025-11-19,Frederick,2025-11-20,Incident Closed-No Violation Observed,21701
 280,375027,['Air'],2025-11-18,2025-11-18,Anne Arundel,2025-12-31,Incident Closed-No Violation Observed,21122
 281,375020,['Air Pollutant Release'],2025-11-18,2025-10-17,Anne Arundel,2025-11-18,Incident Closed-Managed,
