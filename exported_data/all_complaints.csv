@@ -43,36 +43,36 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 42,395613,['Odor'],2026-04-01,2026-04-01,Howard,2026-04-01,Incident Closed - No further action,20723
 43,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 44,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-45,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+45,395612,['Odor'],2026-03-27,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 46,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-47,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+47,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 48,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-49,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+49,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 50,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-51,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-52,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+51,395612,['Odor'],2026-03-27,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+52,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 53,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 54,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-55,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-56,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-57,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-58,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+55,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+56,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+57,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+58,395612,['Odor'],2026-03-25,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 59,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 60,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 61,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 62,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-63,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+63,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 64,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-65,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-66,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-67,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+65,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+66,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+67,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 68,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 69,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 70,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 71,395612,['Odor'],2026-03-27,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-72,395612,['Odor'],2026-03-27,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-73,395612,['Odor'],2026-03-27,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
-74,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+72,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+73,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
+74,395612,['Odor'],2026-03-26,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 75,395612,['Odor'],2026-03-29,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 76,395612,['Odor'],2026-04-02,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
 77,395612,['Odor'],2026-04-02,2026-03-25,Howard,2026-03-29,Incident Closed - No further action,20723
@@ -233,8 +233,8 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 233,375164,['Other'],2025-12-15,2025-12-15,Prince George's,2025-12-16,Incident Closed-Managed,
 234,375163,['Other'],2025-12-11,2025-12-16,Prince George's,2025-12-16,Incident Closed-Managed,
 235,375155,['Air'],2025-12-12,2025-12-12,Anne Arundel,2025-12-15,Incident Closed - No further action,20724
-236,375153,['ARA AQCP non-regulated entity'],2025-12-15,2025-12-11,Wicomico,2025-12-12,Incident Closed-Managed,34106
-237,375153,['ARA AQCP non-regulated entity'],2025-12-15,2025-12-11,Wicomico,2025-12-12,Incident Closed-Managed,
+236,375153,['ARA AQCP non-regulated entity'],2025-12-15,2025-12-11,Wicomico,2025-12-12,Incident Closed-Managed,
+237,375153,['ARA AQCP non-regulated entity'],2025-12-15,2025-12-11,Wicomico,2025-12-12,Incident Closed-Managed,34106
 238,375152,['ARA AQCP non-regulated entity'],2025-12-09,,Caroline,2025-12-09,Incident Closed - No further action,
 239,375150,['ARA AQCP non-regulated entity'],2025-12-12,,Somerset,2025-12-11,Incident Closed-No Violation Observed,21838
 240,375144,"['Air', 'Fugitive Dust/Particulate Matter', 'Other']",2025-12-05,2025-12-05,Cecil,2025-12-11,Incident Closed - No further action,21919
@@ -1701,8 +1701,8 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 1717,161031,['Air'],2023-06-02,2023-05-26,Anne Arundel,2023-06-12,Incident Closed-No Violation Observed,21113
 1718,161030,['Other'],2023-06-01,,St. Mary's,2023-06-02,Incident Closed - No further action,
 1719,161027,"['Air', 'Fugitive Dust/Particulate Matter']",2023-05-31,2023-05-31,Montgomery,,Referred to Outside Agency,20912
-1720,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,2024-11-19,Incident Closed-Managed,20853
-1721,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,2024-11-19,Incident Closed-Managed,20837
+1720,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,2024-11-19,Incident Closed-Managed,20837
+1721,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,2024-11-19,Incident Closed-Managed,20853
 1722,161008,['Other'],2023-05-25,,Baltimore,2023-05-26,Incident Closed - No further action,
 1723,161002,['Air'],2023-05-24,2023-05-24,Frederick,,Under Investigation,
 1724,161000,"['Fumes', 'Odor', 'Smoke']",2023-05-23,2023-05-23,Wicomico,2023-05-24,Incident Closed-Managed,21801
