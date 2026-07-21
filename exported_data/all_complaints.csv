@@ -11,7 +11,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 10,426133,['Open Burning'],2026-07-04,2026-07-04,Washington,,Referred to Outside Agency,21740
 11,426132,"['Odor', 'Open Burning', 'Smoke']",2026-07-02,2026-07-02,Garrett,,Referred to Outside Agency,21531
 12,426130,"['Noise Complaint', 'Other', 'Smoke']",2026-07-02,2026-07-02,Allegany,2026-07-07,Incident Closed - No further action,21502
-13,426128,['Air'],2026-07-07,2026-07-06,Anne Arundel,2026-07-13,Incident Closed-Managed,21225
+13,426128,['Air'],2026-07-07,2026-07-06,Anne Arundel,2026-07-20,Incident Closed-Managed,21225
 14,426127,['Air'],2026-07-06,2026-07-06,Anne Arundel,2026-07-13,Incident Closed - No further action,21122
 15,426126,['Other'],2026-07-01,2026-07-01,Washington,,Referred to ARA,21740
 16,426125,"['Odor', 'Smoke']",2026-06-29,2026-06-27,Allegany,,Referred to Outside Agency,21502
@@ -48,7 +48,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 49,416011,['Odor'],2026-06-14,2026-06-13,Howard,2026-06-14,Incident Closed - No further action,20723
 50,416011,['Odor'],2026-06-14,2026-06-13,Howard,2026-06-14,Incident Closed - No further action,20723
 51,416004,['Air'],2026-06-13,2026-06-13,Anne Arundel,2026-06-15,Incident Closed - No further action,21401
-52,416003,['Air'],2026-06-12,2026-06-12,Anne Arundel,2026-06-15,Incident Closed-Managed,
+52,416003,['Air'],2026-06-12,2026-06-12,Anne Arundel,2026-07-20,Incident Closed-Managed,
 53,416000,['Odor'],2026-06-11,2026-06-11,Howard,2026-06-11,Incident Closed - No further action,20723
 54,415984,['Air'],2026-06-10,2026-06-10,Charles,2026-06-16,Incident Closed-Managed,20602
 55,415983,['Air'],2026-06-09,2026-06-09,Charles,2026-06-16,Incident Closed-Managed,20602
