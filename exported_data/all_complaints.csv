@@ -4,7 +4,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 3,426282,['Open Burning'],2026-08-03,2026-08-03,Washington,,Referred to Outside Agency,21740
 4,426279,['Other'],2026-08-03,2026-08-03,Allegany,2026-08-04,Incident Closed - No further action,21532
 5,426278,['Odor'],2026-08-03,2026-07-31,Allegany,,Under Investigation,21502
-6,426274,['Air'],2026-07-31,2026-07-31,Anne Arundel,,Under Investigation,21090
+6,426274,['Air'],2026-07-31,2026-07-31,Anne Arundel,2026-08-06,Incident Closed-Managed,21090
 7,426273,['Air'],2026-08-03,2026-08-03,Anne Arundel,,Under Investigation,21114
 8,426272,['Air'],2026-08-01,2026-08-01,Frederick,,Under Investigation,21701
 9,426271,['Air'],2026-07-28,2026-07-28,Anne Arundel,,Under Investigation,21225
