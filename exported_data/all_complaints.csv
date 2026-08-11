@@ -9,10 +9,10 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 8,426274,['Air'],2026-07-31,2026-07-31,Anne Arundel,2026-08-06,Incident Closed-Managed,21090
 9,426273,['Air'],2026-08-03,2026-08-03,Anne Arundel,,Under Investigation,21114
 10,426272,['Air'],2026-08-01,2026-08-01,Frederick,,Under Investigation,21701
-11,426271,['Air'],2026-07-28,2026-07-28,Anne Arundel,,Under Investigation,21225
-12,426270,['Air'],2026-07-27,2026-07-27,Anne Arundel,,Under Investigation,21076
+11,426271,['Air'],2026-07-28,2026-07-28,Anne Arundel,,Referred to LMA,21225
+12,426270,['Air'],2026-07-27,2026-07-27,Anne Arundel,2026-08-04,Incident Closed-No Violation Observed,21076
 13,426261,['Other'],2026-07-28,2026-07-28,Prince George's,2026-07-31,Incident Closed-Managed,
-14,426260,['Other'],2026-07-28,2026-07-27,Prince George's,2026-07-31,Incident Closed-Managed,
+14,426260,['Other'],2026-07-28,2026-07-27,Prince George's,2026-08-10,Incident Closed-Managed,
 15,426253,"['Air', 'Open Burning', 'Smoke']",2026-07-24,2026-07-24,St. Mary's,,Referred to Outside Agency,
 16,426252,['Odor'],2026-07-25,2026-07-25,Dorchester,2026-07-25,Incident Closed - No further action,21835
 17,426251,['Odor'],2026-07-18,2026-07-18,Dorchester,2026-07-18,Incident Closed - No further action,21835
@@ -20,7 +20,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 19,426239,['Other'],2026-07-16,2026-07-16,Allegany,2026-07-27,Incident Closed - No further action,21501
 20,426220,['Air'],2026-07-22,2026-07-22,Anne Arundel,,Under Investigation,
 21,426217,['Other'],2026-07-20,2026-07-20,Howard,2026-08-05,Incident Closed-Managed,21044
-22,426216,['Other'],2026-07-22,2026-07-17,Howard,2026-08-05,Incident Closed-Managed,21044
+22,426216,['Other'],2026-07-22,2026-07-17,Howard,2026-08-10,Incident Closed-Managed,21044
 23,426215,['Air'],2026-07-19,2026-07-19,Charles,,Under Investigation,20646
 24,426214,['Air'],2026-07-20,2026-07-20,Anne Arundel,2026-07-22,Incident Closed-Managed,21122
 25,426211,['Smoke'],2026-07-20,2026-07-20,Baltimore City,2026-07-22,Incident Closed-Managed,21212
