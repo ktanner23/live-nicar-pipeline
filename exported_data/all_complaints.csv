@@ -2,8 +2,8 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 1,426648,['Asbestos Complaint'],2026-10-13,2026-10-13,Allegany,Referred to ARA,,
 2,426646,['Odor'],2026-10-09,2026-10-09,Washington,Referred to Outside Agency,21742,
 3,426643,"['Air', 'Open Burning', 'Smoke']",2026-10-09,2026-10-08,Montgomery,Referred to Outside Agency,20841,
-4,426642,['Air'],2026-10-13,2026-10-12,Anne Arundel,Under Investigation,,
-5,426641,['Air'],2026-10-13,2026-10-12,Anne Arundel,Under Investigation,,
+4,426642,['Air'],2026-10-12,2026-10-12,Anne Arundel,Incident Closed-No Violation Observed,21122,2026-10-15
+5,426641,['Air'],2026-10-12,2026-10-12,Anne Arundel,Incident Closed-No Violation Observed,21226,2026-10-15
 6,426640,['Air'],2026-10-09,2026-10-09,Anne Arundel,Incident Closed - No further action,21401,2026-10-14
 7,426636,"['Odor', 'Smoke']",2026-10-09,2026-10-09,Washington,Incident Closed - No further action,21740,2026-10-13
 8,426620,['Air'],2026-10-08,2026-10-08,Anne Arundel,Incident Closed-No Violation Observed,21061,2026-10-13
